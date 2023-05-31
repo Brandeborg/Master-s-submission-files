@@ -1,0 +1,14 @@
+transformers
+datasets
+evaluate
+seqeval
+
+scipy
+sklearn
+
+nltk
+python-dotenv
+langdetect
+
+pandas
+matplotlib

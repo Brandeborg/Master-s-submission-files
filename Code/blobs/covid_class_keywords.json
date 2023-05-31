@@ -1,0 +1,4 @@
+{
+    "is_not_covid": {"keywords_stemmed": [], "keywords": []},
+    "is_covid": {"keywords_stemmed": ["covid-19", "covid 19"], "keywords": ["covid-19", "covid 19"]}
+}

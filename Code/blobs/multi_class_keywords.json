@@ -1,0 +1,13 @@
+{
+    "donald trump": {"keywords_stemmed": ["donald trump", "presid trump"], "keywords": ["donald trump", "president trump", "trump"]},
+    "boris johnson": {"keywords_stemmed": ["bori johnson"], "keywords": ["boris johnson", "johnson"]},
+    "hillary clinton": {"keywords_stemmed": ["hillari clinton"], "keywords": ["hillary clinton", "clinton"]},
+    "joe biden": {"keywords_stemmed": ["joe biden", "joseph biden", "presid biden"], "keywords": ["joe biden", "joseph biden", "biden"]},
+    "barack obama": {"keywords_stemmed": ["barack obama", "presid obama"], "keywords": ["barack obama", "obama"]},
+    "bernie sanders": {"keywords_stemmed": ["berni sander", "bernard sander"], "keywords": ["bernie sanders", "bernard sanders", "bernie", "sanders"]},
+    "angela merkel": {"keywords_stemmed": ["angela merkel"], "keywords": ["angela merkel", "merkel"]},
+    "emmanuel macron": {"keywords_stemmed": ["emmanuel macron", "presid macron"], "keywords": ["emmanuel macron", "macron"]},
+    "vladimir putin": {"keywords_stemmed": ["vladimir putin"], "keywords": ["vladimir putin", "putin"]},
+    "kim jong-un": {"keywords_stemmed": ["kim jong-un"], "keywords": ["kim jong-un"]},
+    "justin trudeau": {"keywords_stemmed": ["justin trudeau"], "keywords": ["justin trudeau", "trudeau"]}
+}

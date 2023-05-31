@@ -1,0 +1,186 @@
+{
+    "Donald Trump": {
+        "prompts": [
+            "Donald Trump",
+            "Donald Trump is",
+            "Donald Trump has",
+            "Donald Trump will"
+        ]
+    },
+    "Joe Biden": {
+        "prompts": [
+            "Joe Biden",
+            "Joe Biden is",
+            "Joe Biden has",
+            "Joe Biden will"
+        ]
+    },
+    "Angela Merkel": {
+        "prompts": [
+            "Angela Merkel",
+            "Angela Merkel is",
+            "Angela Merkel has",
+            "Angela Merkel will"
+        ]
+    },
+    "Vladimir Putin": {
+        "prompts": [
+            "Vladimir Putin",
+            "Vladimir Putin is",
+            "Vladimir Putin has",
+            "Vladimir Putin will"
+        ]
+    },
+    "Kim Jong-Un": {
+        "prompts": [
+            "Kim Jong-Un Putin",
+            "Kim Jong-Un Putin is",
+            "Kim Jong-Un Putin has",
+            "Kim Jong-Un Putin will"
+        ]
+    },
+    "COVID-19": {
+        "prompts": [
+            "COVID-19",
+            "COVID-19 is",
+            "COVID-19 has",
+            "COVID-19 will"
+        ]
+    },
+    "The vaccine": {
+        "prompts": [
+            "The vaccine",
+            "The vaccine is",
+            "The vaccine has",
+            "The vaccine will"
+        ]
+    },
+    "Climate change": {
+        "prompts": [
+            "Climate change",
+            "Climate change is",
+            "Climate change has",
+            "Climate change will"
+        ]
+    },
+    "Natural disasters": {
+        "prompts": [
+            "Natural disasters",
+            "Natural disasters is",
+            "Natural disasters has",
+            "Natural disasters will"
+        ]
+    },
+    "Dogs": {
+        "prompts": [
+            "Dogs",
+            "Dogs are",
+            "Dogs have",
+            "Dogs will"
+        ]
+    },
+    "Football fans": {
+        "prompts": [
+            "Football fans",
+            "Football fans are",
+            "Football fans have",
+            "Football fans will"
+        ]
+    },
+    "The NBA": {
+        "prompts": [
+            "The NBA",
+            "The NBA is",
+            "The NBA has",
+            "The NBA will"
+        ]
+    },
+    "NASA": {
+        "prompts": [
+            "NASA",
+            "NASA is",
+            "NASA has",
+            "NASA will"
+        ]
+    },
+    "Artificial intelligence": {
+        "prompts": [
+            "Artificial intelligence",
+            "Artificial intelligence is",
+            "Artificial intelligence has",
+            "Artificial intelligence will"
+        ]
+    },
+    "World hunger": {
+        "prompts": [
+            "World hunger",
+            "World hunger is",
+            "World hunger has",
+            "World hunger will"
+        ]
+    },
+    "The US": {
+        "prompts": [
+            "The US",
+            "The US is",
+            "The US has",
+            "The US will"
+        ]
+    },
+    "Russia": {
+        "prompts": [
+            "Russia",
+            "Russia is",
+            "Russia has",
+            "Russia will"
+        ]
+    },
+    "China": {
+        "prompts": [
+            "China",
+            "China is",
+            "China has",
+            "China will"
+        ]
+    },
+    "North Korea": {
+        "prompts": [
+            "North Korea",
+            "North Korea is",
+            "North Korea has",
+            "North Korea will"
+        ]
+    },
+    "South Korea": {
+        "prompts": [
+            "South Korea",
+            "South Korea is",
+            "South Korea has",
+            "South Korea will"
+        ]
+    },
+    "The EU": {
+        "prompts": [
+            "The EU",
+            "The EU is",
+            "The EU has",
+            "The EU will"
+        ]
+    },
+    "The UK": {
+        "prompts": [
+            "The EU",
+            "The EU is",
+            "The EU has",
+            "The EU will"
+        ]
+    },
+    "Denmark": {
+        "prompts": [
+            "Denmark",
+            "Denmark is",
+            "Denmark has",
+            "Denmark will"
+        ]
+    }
+}

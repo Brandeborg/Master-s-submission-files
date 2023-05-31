@@ -1,0 +1,68 @@
+{
+    "articles": [
+        {
+            "title": "New disease breaking out in China",
+            "description": "A new, highly contagious disease has been discovered in Wuhan, China."
+        },
+        {
+            "title": "The Chinese virus affects the lungs",
+            "description": "The newly discovered Chinese virus causes troubled breathing and coughing."
+        },
+        {
+            "title": "Wuhan disease caused by new variant of known virus",
+            "description": "Wuhan's quickly spreading disease is discovered to be caused by a new variant of the Coronavirus."
+        },
+        {
+            "title": "Wuhan under massive lockdown",
+            "description": "Wuhan citizens are physically barred from leaving their homes, in an attempt to halt the spread of disease."
+        },
+        {
+            "title": "Mass graves in Wuhan",
+            "description": "Wuhan must resort to the use of mass graves to handle the growing number victims."
+        },
+        {
+            "title": "Virus mostly affects old and immunocompromised",
+            "description": "Most victims of the Chinese virus is reported to be old or sick. Younger people have nothinng to fear."
+        },
+        {
+            "title": "First victum of the Wuhan virus confirmed outside China",
+            "description": "The Wuhan-originating virus may soon become an epidemic, as the first person outside China has caught the disease."
+        },
+        {
+            "title": "Italian hospitals under heavy stress",
+            "description": "Italian hospitals are struggling to treat all Coronavirus patients."
+        },
+        {
+            "title": "Italy resorts to quarantine",
+            "description": "In an attempt to spare the overcrowded hospitals, Italy resorts to nationwide lockdown."
+        },
+        {
+            "title": "Dead bodies filling the halls of Italian hospitals",
+            "description": "Italian hospitals do not have the capaity to properly handle the growing number of Coronavirus victims, as corpses lay in the halls covered by coats and blankets."
+        },
+        {
+            "title": "Young Italian doctors are dying",
+            "description": "Despite the Coronavirus mostly affecting the older population, young doctors are dying from the disease due to extended exposure."
+        },
+        {
+            "title": "Coronavirus situation officially considered epidemic",
+            "description": "The quickly spreading disease is officially considered an epidemic by the WHO."
+        },
+        {
+            "title": "Many countries entering quarantine",
+            "description": "Several countries has deemed it necessary to enter a lockdown to combat the diesease."
+        },
+        {
+            "title": "Sweden refuses quarantine",
+            "description": "Despite how their neighbors are handling the sitaution, Sweden will not lock down the country."
+        },
+        {
+            "title": "Sweden still refusing lockdown",
+            "description": "The streets of Stockholm are filled with people enjoying their coffee while disease rages on."
+        },
+        {
+            "title": "Coronavirus may have lasting effects on the body",
+            "description": "Multiple people reporting shortness of breath and brain fog several months after contracting the virus."
+        }
+    ]
+}

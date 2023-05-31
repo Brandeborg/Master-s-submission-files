@@ -1,0 +1,366 @@
+{
+    "9news.com.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "abc.net.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "abcnews.go.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "afr.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "aljazeera.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "apnews.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "bbc.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "bostonglobe.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "breakingnews.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "breitbart.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "businessinsider.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "cbc.ca": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "cbsnews.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "channel4.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "chicagotribune.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "cnbc.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "csmonitor.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "ctvnews.ca": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "dailymail.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "dailystar.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "dw.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "economist.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "edition.cnn.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "euronews.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "express.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "foxnews.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "france24.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "globalnews.ca": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "huffpost.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "independent.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "independent.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "inquirer.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "irishexaminer.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "irishmirror.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "irishtimes.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "itv.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "latimes.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "liverpoolecho.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "macleans.ca": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "metro.co.uk": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "mirror.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "montrealgazette.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "morningstaronline.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "msnbc.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "nbcnews.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "news.com.au": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "news.sky.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "news.yahoo.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "newshub.co.nz": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "newsweek.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "npr.org": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "nypost.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "nytimes.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "nzherald.co.nz": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "politico.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "rcinet.ca": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "reuters.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "rfi.fr": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "rnz.co.nz": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "rt.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "rte.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "sbs.com.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "scoop.co.nz": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "scotsman.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "slate.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "smh.com.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "standard.co.uk": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "stuff.co.nz": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "telegraph.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "theage.com.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "theatlantic.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "theglobeandmail.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "theguardian.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thehill.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thejournal.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thestar.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thesun.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thesun.ie": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thetimes.co.uk": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "thewest.com.au": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "time.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "torontosun.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "upi.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "usatoday.com": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "vancouversun.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "walesonline.co.uk": {
+        "language": "en",
+        "some_foreign": true
+    },
+    "washingtonpost.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "washingtontimes.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "westernjournal.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "wnd.com": {
+        "language": "en",
+        "some_foreign": false
+    },
+    "wsj.com": {
+        "language": "en",
+        "some_foreign": false
+    }
+}
